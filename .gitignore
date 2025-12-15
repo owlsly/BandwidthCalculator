@@ -1,0 +1,6 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.vsidx
+.vs/
